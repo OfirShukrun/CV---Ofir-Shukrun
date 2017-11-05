@@ -6,7 +6,7 @@ I’m a front-end developer at his early career who is looking for opportunities
 **Databases**: MongoDB, Mongoose.<br> 
 **Frameworks**: Express, Bootstrap 4.<br> 
 **Development Tools**: Git/Github.<br> 
-**Other skills**: Heroku,Handlebars.
+**Other skills**: Heroku, Handlebars.
 ## Projects
 ### [Stephen Hawking](https://github.com/OfirShukrun/StephenHawkingPage)
 A web page about Stephen Hawking’s life in a timeline.<br> 

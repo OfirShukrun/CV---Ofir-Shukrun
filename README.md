@@ -25,9 +25,9 @@ Javascript (ES6)<br>
 Node.js<br> 
 ## Education<br> 
 Self-learning with:<br> 
-### FreeCodeCamp 
+#### FreeCodeCamp 
 HTML and CSS, Responsive design with Bootstrap, jQuery, Basic front-end developer projects, Basic JavaScript, Object oriented and functional programming, Basic algorithm scripting, JSON APIs and AJAX.<br> 
-### Udemy 
+#### Udemy 
 “The complete Node.js Developer course (2nd Edition)” ; 26 hours.<br> 
 <br> 
 ## Contact

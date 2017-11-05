@@ -31,5 +31,5 @@ HTML and CSS, Responsive design with Bootstrap, jQuery, Basic front-end develope
 “The complete Node.js Developer course (2nd Edition)” ; 26 hours.<br> 
 <br> 
 ## Contact
-Ofirshukrun13@gmail.com<br> 
+Email: Ofirshukrun13@gmail.com<br> 
 Cell-phone: 054-7739953

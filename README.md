@@ -1,4 +1,4 @@
-
+# CV - Ofir Shukrun
 
 I’m a front-end developer at his early career who is looking for opportunities to gain new skills by joining to a fine full-stack job.<br> I recently finished some projects as mentioned down below.<br>  I am an autodidact who is learning fast and effectively.<br>  Thanks to my abilities I have a lot of hobbies such as: Music: drums, saxophone, and guitar; Art: painting and doing origami, and well educated in math and physics (5 units each).<br> 
 # Skills

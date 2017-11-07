@@ -4,7 +4,7 @@ I’m a front-end developer at his early career who is looking for opportunities
 ## Skills
 **Languages**: HTML5, CSS3, JavaScript (also ES6), jQuery, Node.js.<br> 
 **Databases**: MongoDB, Mongoose.<br> 
-**Frameworks**: Express, Bootstrap 4.<br> 
+**Frameworks**: Express, Bootstrap 4, AngularJS.<br> 
 **Development Tools**: Git/Github.<br> 
 **Other skills**: Heroku, Handlebars.
 ## Projects

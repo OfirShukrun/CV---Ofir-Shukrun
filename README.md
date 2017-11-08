@@ -8,11 +8,13 @@ I’m a front-end developer at his early career who is looking for opportunities
 **Development Tools**: Git/Github.<br> 
 **Other skills**: Heroku, Handlebars.
 ## Projects
-### [Stephen Hawking](https://github.com/OfirShukrun/StephenHawkingPage)
-A web page about Stephen Hawking’s life in a timeline.<br> 
+### [HangMan App](https://github.com/OfirShukrun/HangMan-App)
+The HangMan Game with rock/metal bands! try to guess the correct band!<br> 
 <br>
 Technologies used: <br> 
-HTML+ CSS<br> 
+HTML+ CSS<br>
+JavaScript(ES6)<br>
+AngularJS
 ### [Personal protfolio page](https://github.com/OfirShukrun/Personal-Protfolio)
 A web page about me as a front-end developer.<br> 
 <br>
@@ -21,6 +23,11 @@ HTML+ CSS<br>
 Javascript<br> 
 jQuery<br> 
 Bootstrap 4<br> 
+### [Stephen Hawking](https://github.com/OfirShukrun/StephenHawkingPage)
+A web page about Stephen Hawking’s life in a timeline.<br> 
+<br>
+Technologies used: <br> 
+HTML+ CSS<br> 
 ### [Weather app](https://github.com/OfirShukrun/Weather-app)
 An node.js app that gives you the current weather by typing a location.<br> 
 <br>

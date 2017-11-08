@@ -40,6 +40,7 @@ Self-learning with:<br>
 HTML and CSS, Responsive design with Bootstrap, jQuery, Basic front-end developer projects, Basic JavaScript, Object oriented and functional programming, Basic algorithm scripting, JSON APIs and AJAX.<br> 
 #### Udemy 
 “The complete Node.js Developer course (2nd Edition)” ; 26 hours.<br> 
+"QuickStart AngularJS" ; 1.5 hours.
 <br> 
 ## Contact
 **Email**: Ofirshukrun13@gmail.com<br> 

@@ -8,7 +8,7 @@ I’m a front-end developer at his early career who is looking for opportunities
 **Development Tools**: Git/Github.<br> 
 **Other skills**: Heroku, Handlebars.
 ## Projects
-### [HangMan App](https://github.com/OfirShukrun/HangMan-App)
+### [HangMan App](https://github.com/OfirShukrun/HangMan)
 The HangMan Game with rock/metal bands! try to guess the correct band!<br> 
 <br>
 Technologies used: <br> 

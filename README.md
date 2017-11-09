@@ -8,13 +8,6 @@ I’m a front-end developer at his early career who is looking for opportunities
 **Development Tools**: Git/Github.<br> 
 **Other skills**: Heroku, Handlebars.
 ## Projects
-### [HangMan App](https://github.com/OfirShukrun/HangMan)
-The HangMan Game with rock/metal bands! try to guess the correct band!<br> 
-<br>
-Technologies used: <br> 
-HTML+ CSS<br>
-JavaScript(ES6)<br>
-AngularJS
 ### [Personal protfolio page](https://github.com/OfirShukrun/Personal-Protfolio)
 A web page about me as a front-end developer.<br> 
 <br>
@@ -34,6 +27,14 @@ An node.js app that gives you the current weather by typing a location.<br>
 Technologies used: <br> 
 Javascript (ES6)<br> 
 Node.js<br> 
+### [HangMan App](https://github.com/OfirShukrun/HangMan)
+The HangMan Game with rock/metal bands! try to guess the correct band!<br> 
+<br>
+Technologies used: <br> 
+HTML<br>
+JavaScript(ES6)<br>
+AngularJS
+BootStrap 4
 ## Education<br> 
 Self-learning with:<br> 
 #### FreeCodeCamp 

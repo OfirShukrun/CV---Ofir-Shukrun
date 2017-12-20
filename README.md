@@ -8,27 +8,33 @@ Ofir Shukrun ,23, I’m a front-end developer at his early career who is looking
 **Development Tools**: Git/Github.<br> 
 **Other skills**: Heroku, Handlebars.
 ## Projects
-### [Car App](https://github.com/OfirShukrun/Personal-Protfolio)
+
+### [HangMan App](https://github.com/OfirShukrun/HangMan-App)
+The HangMan Game with rock bands! try to guess the correct band!<br> 
+<br>
+Technologies used: <br> 
+HTML5 + CSS3<br>
+Bootstrap 4<br>
+Javascript(ES6)<br>
+AngularJS
+
+### [Weather app](https://github.com/OfirShukrun/Weather-app)
+Get the current weather of any location on earth!
+<br>
+Technologies used: <br> 
+HTML5 + CSS3<br>
+Bootstrap 4<br>
+Javascript(ES6)<br>
+AngularJS
+
+### [Car App](https://github.com/OfirShukrun/Car-App)
 Add/remove cars from your private car collection ;) .<br> 
 <br>
 Technologies used: <br> 
-CSS3 <br>
+HTML5 + CSS3 <br>
 Javascript<br> 
 AngularJS<br>
-### [Weather app](https://github.com/OfirShukrun/Weather-app)
-An node.js app that gives you the current weather by typing a location.<br> 
-<br>
-Technologies used: <br> 
-Javascript (ES6)<br> 
-Node.js<br> 
-### [HangMan App](https://github.com/OfirShukrun/HangMan)
-The HangMan Game with rock/metal bands! try to guess the correct band!<br> 
-<br>
-Technologies used: <br> 
-HTML<br>
-JavaScript(ES6)<br>
-AngularJS
-BootStrap 4
+
 ## Education<br> 
 Self-learning with:<br> 
 #### FreeCodeCamp 

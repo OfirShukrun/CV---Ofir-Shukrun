@@ -32,6 +32,13 @@ Javascript(ES6)<br>
 AngularJS
 Node.js (for running lite server)
 
+### [Weather app - Node.js](https://github.com/OfirShukrun/Weather-app)
+Get the current weather of any location on earth!
+<br>
+Technologies used: <br> 
+Node.js (yargs, request)
+ES6
+
 ### [Car App](https://github.com/OfirShukrun/Car-App)
 Add/remove cars from your private car collection ;) .<br> 
 <br>
@@ -48,6 +55,9 @@ HTML and CSS, Responsive design with Bootstrap, jQuery, Basic front-end develope
 #### Udemy 
 “The complete Node.js Developer course (2nd Edition)” ; 26 hours.<br> 
 "QuickStart AngularJS" ; 1.5 hours.
+#### Pluralsite
+"JavaScript Design Patterns"; 2 hours.
+
 <br> 
 ## Contact
 **Email**: Ofirshukrun13@gmail.com<br> 

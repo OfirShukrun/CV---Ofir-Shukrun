@@ -32,7 +32,7 @@ Javascript(ES6)<br>
 AngularJS
 Node.js (for running lite server)
 
-### [Weather app - Node.js](https://github.com/OfirShukrun/Weather-app)
+### [Weather app - Node.js](https://github.com/OfirShukrun/Weather-app-NodeJS)
 Get the current weather of any location on earth!
 <br>
 Technologies used: <br> 

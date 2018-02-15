@@ -1,5 +1,8 @@
 # CV - Ofir Shukrun
 
+**Email**: Ofirshukrun13@gmail.com<br> 
+**Cell-phone**: 054-7739953
+
 Ofir Shukrun ,23, I’m a Junior front-end developer at his early career who is looking for opportunities to gain new skills by joining to a fine full-time job.<br> I recently finished some projects as mentioned down below.<br>  I am an autodidact who is learning fast and effectively.<br>  Thanks to my abilities I have a lot of hobbies such as: Music: drums, saxophone, and guitar; Art: painting and doing origami, and well educated in math and physics (5 units each).<br> 
 ## Skills
 **Languages**: HTML5, CSS3, JavaScript (ES6), Node.js.<br> 
@@ -58,7 +61,7 @@ HTML and CSS, Responsive design with Bootstrap, jQuery, Basic front-end develope
 #### Pluralsite
 "JavaScript Design Patterns"; 2 hours.
 
-<br> 
-## Contact
-**Email**: Ofirshukrun13@gmail.com<br> 
-**Cell-phone**: 054-7739953
+:)
+ 
+
+
